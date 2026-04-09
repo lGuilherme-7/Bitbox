@@ -13,6 +13,7 @@ O **BiteBox** é um sistema de cardápio digital para delivery com carrinho de c
 
 link: https://lguilherme-7.github.io/Bitbox/
 
+---
 ## ✨ Funcionalidades
 
 - **Catálogo de produtos** com nome, descrição, preço e imagem
